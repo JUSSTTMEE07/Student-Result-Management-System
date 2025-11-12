@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ### 🎓 Student Result Management System
 
@@ -98,3 +99,6 @@ Exiting program. Thank you!
 **Course:** BCA (AI & Data Science)
 **Session:** 2025–26
 
+=======
+# Student-Result-Management-System
+>>>>>>> c42ed56cac0a5eead7cabc52ee128fcd5387dfb7

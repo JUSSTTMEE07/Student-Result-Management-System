@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 ### 🎓 Student Result Management System
 
 A simple Java-based console application for managing student marks and results — built to demonstrate **exception handling**, **custom exceptions**, and **object-oriented programming**.
